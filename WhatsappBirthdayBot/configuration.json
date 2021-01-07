@@ -1,0 +1,13 @@
+{
+    "BrowserConfiguration":
+    {
+      "FirefoxProfilePath": "/Users/martinortuno/Library/Application Support/Firefox/Profiles/5jqkwrdn.default",
+      "DriverPath": "./geckodriver"
+    },
+    "WebAppInformation":
+    {
+        "TextBox": "DuUXI",
+        "MessageContent": "_1awRl.copyable-text.selectable-text",
+        "SendButton": "_2Ujuu"
+    }
+}
